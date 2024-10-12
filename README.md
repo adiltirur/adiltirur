@@ -3,8 +3,7 @@
 ## Adil Tirur (Chakkala Paramba)
 P.S. My full name is Adil Chakkala Paramba, but I like to be known by "Tirur" – it's the place I come from, and it's just more fun that way!
 
-- 🌍 Proudly from India!
-- 💻 Senior Software Engineer at Almeda GmbH, Munich.
+- 💻 Technical Lead at Almeda GmbH, Munich.
 - 👨‍💼 Founder of GradSprint LLP.
 - 📱 Passionate about Mobile Development, despite having an academic degree in Robotics.
 -  ❤️ Love working with Flutter and Dart.
